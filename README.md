@@ -1,12 +1,12 @@
-# 基于skiplist的erlang接口版本
+# A ranking list implemented with skiplist in Erlang API.
 
-## 编译
+## Build
 
 ```
 make all
 ```
 
-## 测试
+## Test
 
 ```
 erl
